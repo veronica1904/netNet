@@ -1,0 +1,76 @@
+.containerHeader{
+    width: 360px;
+}
+.titleLogo{
+    background-color:black;
+    height: 64px;
+    padding-left: 10px;
+    display:flex;
+    align-items: center;
+}
+.imgTitle{
+    height: 24px;
+    width: 55.84px;
+}
+.circle {
+    width: 5px;
+    height: 5px;
+    line-height: 5px;
+    border-radius: 50%;
+    background: #f1f1f1;
+  }
+  .containerList{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      width: 300px;
+      align-items: center;
+     
+  }
+  .containerListTitle{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    z-index: 1000;
+    position: absolute;
+    color: #f1f1f1;
+}
+.containerListTitle p {
+    margin: 20px;
+}
+
+  .conatinerMatrix{
+    width: 300px;
+    margin-bottom: 40px;
+  }
+  p{
+      font-size: 12px;
+     
+
+  }
+  .carousel-caption{
+    left:5% !important
+  }
+  .playList{
+    margin-bottom: -30px;
+    margin-top: -7px;
+  }
+  button{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+  }
+  .containerFooter{
+      display: flex;
+      background-color: black;
+      flex-direction: row;
+      width: 360px;
+      height: 64px;
+  }
+  .containerFooter button{ 
+      width: 90px;
+  }

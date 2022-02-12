@@ -1,0 +1,27 @@
+{"peliculas":[
+    {
+        "title": "coverOne",
+        "image": "./image/pelicula/populares_netnet/coverOne.png"
+    },
+    {
+        "title": "cover",
+        "image": "./image/pelicula/populares_netnet/cover.png"
+    },
+    {
+        "title": "Rectangle",
+        "image": "./image/pelicula/populares_netnet/Rectangle.png"
+    },
+    {
+        "title": "coverf",
+        "image": "./image/pelicula/series_eeuu/coverf.png"
+    },
+    {
+        "title": "coverSeven",
+        "image": "./image/pelicula/series_eeuu/coverSeven.png"
+    },
+    {
+        "title": "covert",
+        "image": "./image/pelicula/series_eeuu/covert.png"
+    }
+]}
+
