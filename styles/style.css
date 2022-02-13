@@ -74,3 +74,21 @@
   .containerFooter button{ 
       width: 90px;
   }
+  .listContent{
+    background-color: black !important;
+    width: 360px;
+    padding-left: 30px;
+  }
+  .listContent h1{
+    color: #ffffff;
+    font-size: 15px;
+  }
+  .modal-content{
+    background-color: black!important;
+  }
+  .modal-content p{
+    color: #ffffff !important;
+  }
+  .modal-content h1{
+    color: #ffffff !important;
+  }
